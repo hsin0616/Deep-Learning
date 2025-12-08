@@ -6,3 +6,7 @@ Course Information: https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem
 2. Paper presentation: 15%
 3. idterm exam: 30%
 4. Final project: 25%
+
+# Homework
+
+# Final Project
