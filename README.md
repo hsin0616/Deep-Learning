@@ -24,6 +24,8 @@ https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem=1&CrsNo=535361&lang
    - Preprocessed text into one-hot character representations, trained models to minimize bits-per-character (BPC), and compared performance across hidden state sizes and sequence lengths.
    - Showed learning curves and validation results, generated intermediate text samples at multiple training breakpoints, and demonstrated text generation by priming the model with dataset-related words (e.g., Shakespeare-style prompts).
 
+# Paper presentation
+# Midterm exam (Dec 9, 2025)
 # Final Project
 Competition of Kaggle: https://www.kaggle.com/account/login?returnUrl=%2Ft%2F82d5dc69b5c2456095fcb360d53fe431
 - Real & Fake (AI) Images Dataset
