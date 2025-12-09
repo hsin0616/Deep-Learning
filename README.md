@@ -8,5 +8,10 @@ Course Information: https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem
 4. Final project: 25%
 
 # Homework
+1. Neural Networks from Scratch: Regression, Classification, and Feature Selection
+2. CNN Image Recognition on MNIST & CIFAR-10 with Architecture and Regularization Analysis
+3. Character-Level Language Modeling with RNN and LSTM
 
 # Final Project
+Competition of Kaggle: https://www.kaggle.com/account/login?returnUrl=%2Ft%2F82d5dc69b5c2456095fcb360d53fe431
+- Real & Fake (AI) Images Dataset
