@@ -5,7 +5,7 @@ https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem=1&CrsNo=535361&lang
 - Homework and Assignments, Exams and Quizzes, Evaluation and Grading Policy
 1. Homework (programming): 30%
 2. Paper presentation: 15%
-3. idterm exam: 30%
+3. midterm exam: 30%
 4. Final project: 25%
 
 # Homework
