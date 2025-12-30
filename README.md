@@ -25,7 +25,7 @@ https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem=1&CrsNo=535361&lang
    - Showed learning curves and validation results, generated intermediate text samples at multiple training breakpoints, and demonstrated text generation by priming the model with dataset-related words (e.g., Shakespeare-style prompts).
 
 # Paper presentation
-Select a report from the following paper.
+Select one of the following papers for an oral presentation:
 1. AlexNet
 2. ZFNet
 3. VGGNET
@@ -44,6 +44,10 @@ Select a report from the following paper.
 16. YOLO
 17. YOYOv7
 18. Large
+19. Vision-Language Models for Vision Tasks
+20. A survey on Hallucination in Large Language Models
+21. Hallucination in Invertiable
+
 # Midterm exam (Dec 9, 2025)
 # Final Project
 Competition of Kaggle: https://www.kaggle.com/account/login?returnUrl=%2Ft%2F82d5dc69b5c2456095fcb360d53fe431
